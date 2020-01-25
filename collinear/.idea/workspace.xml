@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UP8n8MbdVrc49rPVcAVKDoy7ZV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../8puzzle" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.FastCollinearPoints">
+    <configuration name="BruteCollinearPoints" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BruteCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/input8.txt" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/input6.txt" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FastCollinearPoints" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FastCollinearPoints" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="input6.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Point" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Point" />
+      <module name="Algorithms, Part I" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="run-test-brute" type="ShConfigurationType">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/brute-collinear.sh" />
+      <option name="SCRIPT_OPTIONS" value="" />
+      <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.BruteCollinearPoints" />
+      <item itemvalue="Application.FastCollinearPoints" />
+      <item itemvalue="Application.Point" />
+      <item itemvalue="Shell Script.run-test-brute" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Point" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1575247033528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575247033528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1410" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575523546960">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1410" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1575523546960" />
+    <state x="1663" y="470" width="374" height="569" key="#com.intellij.ide.util.MemberChooser" timestamp="1575521308205">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1663" y="470" width="374" height="569" key="#com.intellij.ide.util.MemberChooser/0.27.2560.1413@0.27.2560.1413" timestamp="1575521308205" />
+    <state x="1638" y="509" width="424" height="491" key="FileChooserDialogImpl" timestamp="1575841715761">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1638" y="509" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1575841715761" />
+    <state width="1363" height="359" key="GridCell.Tab.0.bottom" timestamp="1575524074347">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074347" />
+    <state width="1363" height="359" key="GridCell.Tab.0.center" timestamp="1575524074347">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074347" />
+    <state width="1363" height="359" key="GridCell.Tab.0.left" timestamp="1575524074347">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074347" />
+    <state width="1363" height="359" key="GridCell.Tab.0.right" timestamp="1575524074347">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074347" />
+    <state width="1363" height="359" key="GridCell.Tab.1.bottom" timestamp="1575524074348">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.1.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074348" />
+    <state width="1363" height="359" key="GridCell.Tab.1.center" timestamp="1575524074348">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.1.center/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074348" />
+    <state width="1363" height="359" key="GridCell.Tab.1.left" timestamp="1575524074347">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.1.left/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074347" />
+    <state width="1363" height="359" key="GridCell.Tab.1.right" timestamp="1575524074348">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1363" height="359" key="GridCell.Tab.1.right/0.27.2560.1413@0.27.2560.1413" timestamp="1575524074348" />
+    <state x="1344" y="386" width="1022" height="737" key="SettingsEditor" timestamp="1575255694250">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1344" y="386" width="1022" height="737" key="SettingsEditor/0.27.2560.1413@0.27.2560.1413" timestamp="1575255694250" />
+    <state x="940" y="560" key="com.intellij.ide.util.TipDialog" timestamp="1575841614850">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="940" y="560" key="com.intellij.ide.util.TipDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1575841614850" />
+    <state x="1518" y="378" width="672" height="678" key="search.everywhere.popup" timestamp="1575436776312">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1518" y="378" width="672" height="678" key="search.everywhere.popup/0.27.2560.1413@0.27.2560.1413" timestamp="1575436776312" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/collinear$FastCollinearPoints.ic" NAME="FastCollinearPoints Coverage Results" MODIFIED="1575430795123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

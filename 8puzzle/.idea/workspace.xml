@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="DISPLAY_NOTIFICATION_POPUP" value="false" />
+    <option name="CLEAR_OUTPUT_DIRECTORY" value="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="205" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+    <option name="SCHEME" value="Project" />
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <analyzeAfterCompile>true</analyzeAfterCompile>
+    <toolWindowToFront>false</toolWindowToFront>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Uia9VD4ZZk7vb0uBP4ZW3nMBx7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ToolWindowMessages.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../aloalto/leelo/leelo-news-actor-system" />
+    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+  </component>
+  <component name="RunManager" selected="Application.Solver">
+    <configuration name="Board" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Board" />
+      <module name="Algorithms, Part I" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="$PROJECT_DIR$/puzzle4x4-00.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PuzzleChecker" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PuzzleChecker" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value=" puzzle2x2-00.txt puzzle2x2-01.txt puzzle2x2-02.txt puzzle2x2-03.txt puzzle2x2-04.txt puzzle2x2-05.txt puzzle2x2-06.txt puzzle2x2-unsolvable1.txt puzzle2x2-unsolvable2.txt puzzle2x2-unsolvable3.txt puzzle3x3-00.txt puzzle3x3-01.txt puzzle3x3-02.txt puzzle3x3-03.txt puzzle3x3-04.txt puzzle3x3-05.txt puzzle3x3-06.txt puzzle3x3-07.txt puzzle3x3-08.txt puzzle3x3-09.txt puzzle3x3-10.txt puzzle3x3-11.txt puzzle3x3-12.txt puzzle3x3-13.txt puzzle3x3-14.txt puzzle3x3-15.txt puzzle3x3-16.txt puzzle3x3-17.txt puzzle3x3-18.txt puzzle3x3-19.txt puzzle3x3-20.txt puzzle3x3-21.txt puzzle3x3-22.txt puzzle3x3-23.txt puzzle3x3-24.txt puzzle3x3-25.txt puzzle3x3-26.txt puzzle3x3-27.txt puzzle3x3-28.txt puzzle3x3-29.txt puzzle3x3-30.txt puzzle3x3-31.txt puzzle3x3-unsolvable1.txt puzzle3x3-unsolvable2.txt puzzle3x3-unsolvable.txt puzzle4x4-00.txt puzzle4x4-01.txt puzzle4x4-02.txt puzzle4x4-03.txt puzzle4x4-04.txt puzzle4x4-05.txt puzzle4x4-06.txt puzzle4x4-07.txt puzzle4x4-08.txt puzzle4x4-09.txt puzzle4x4-10.txt puzzle4x4-11.txt puzzle4x4-12.txt puzzle4x4-13.txt puzzle4x4-14.txt puzzle4x4-15.txt puzzle4x4-16.txt puzzle4x4-17.txt puzzle4x4-18.txt puzzle4x4-19.txt puzzle4x4-20.txt puzzle4x4-21.txt puzzle4x4-22.txt puzzle4x4-23.txt puzzle4x4-24.txt puzzle4x4-25.txt puzzle4x4-26.txt puzzle4x4-27.txt puzzle4x4-28.txt puzzle4x4-29.txt puzzle4x4-30.txt puzzle4x4-31.txt puzzle4x4-32.txt puzzle4x4-33.txt puzzle4x4-34.txt puzzle4x4-35.txt puzzle4x4-36.txt puzzle4x4-37.txt puzzle4x4-38.txt puzzle4x4-39.txt puzzle4x4-40.txt puzzle4x4-41.txt puzzle4x4-42.txt puzzle4x4-43.txt puzzle4x4-44.txt puzzle4x4-45.txt puzzle4x4-46.txt puzzle4x4-47.txt puzzle4x4-48.txt puzzle4x4-49.txt puzzle4x4-50.txt puzzle4x4-78.txt puzzle4x4-80.txt puzzle4x4-unsolvable.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solver" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solver" />
+      <module name="Algorithms, Part I" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/puzzle2x2-01.txt" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Board" />
+      <item itemvalue="Application.PuzzleChecker" />
+      <item itemvalue="Application.Solver" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <created>1575841717497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575841717497</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1276" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576039898085">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1276" y="393" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1576039898085" />
+    <state x="1581" y="455" width="539" height="599" key="#com.intellij.ide.util.MemberChooser" timestamp="1575951297529">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1581" y="455" width="539" height="599" key="#com.intellij.ide.util.MemberChooser/0.27.2560.1413@0.27.2560.1413" timestamp="1575951297529" />
+    <state x="146" y="27" width="958" height="1413" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1575943589396">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="146" y="27" width="958" height="1413" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1575943589396" />
+    <state x="1681" y="481" width="254" height="602" key="#xdebugger.evaluate" timestamp="1576034401364">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1681" y="481" width="254" height="602" key="#xdebugger.evaluate/0.27.2560.1413@0.27.2560.1413" timestamp="1576034401364" />
+    <state x="1601" y="493" width="424" height="491" key="FileChooserDialogImpl" timestamp="1576546802636">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1601" y="493" width="424" height="491" key="FileChooserDialogImpl/0.27.2560.1413@0.27.2560.1413" timestamp="1576546802636" />
+    <state width="1447" height="448" key="GridCell.Tab.0.bottom" timestamp="1576040438584">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.0.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438584" />
+    <state width="1447" height="448" key="GridCell.Tab.0.center" timestamp="1576040438583">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.0.center/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438583" />
+    <state width="1447" height="448" key="GridCell.Tab.0.left" timestamp="1576040438582">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.0.left/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438582" />
+    <state width="1447" height="448" key="GridCell.Tab.0.right" timestamp="1576040438584">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.0.right/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438584" />
+    <state width="1447" height="448" key="GridCell.Tab.1.bottom" timestamp="1576040438586">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.1.bottom/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438586" />
+    <state width="1447" height="448" key="GridCell.Tab.1.center" timestamp="1576040438585">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.1.center/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438585" />
+    <state width="1447" height="448" key="GridCell.Tab.1.left" timestamp="1576040438584">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.1.left/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438584" />
+    <state width="1447" height="448" key="GridCell.Tab.1.right" timestamp="1576040438585">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state width="1447" height="448" key="GridCell.Tab.1.right/0.27.2560.1413@0.27.2560.1413" timestamp="1576040438585" />
+    <state x="1516" y="578" key="com.intellij.ide.util.TipDialog" timestamp="1576546762082">
+      <screen x="0" y="27" width="2560" height="1413" />
+    </state>
+    <state x="1516" y="578" key="com.intellij.ide.util.TipDialog/0.27.2560.1413@0.27.2560.1413" timestamp="1576546762082" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Solver.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/8puzzle$Solver.ic" NAME="Solver Coverage Results" MODIFIED="1576036796597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
